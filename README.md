@@ -111,6 +111,6 @@ Conv2D → MaxPooling → Conv2D → MaxPooling → Flatten → Dense → Output
 ---
 
 ## Author
-Developed as a internship project to monitor attention levels using deep learning and computer vision.
+Developed as a learning project to monitor attention levels using deep learning and computer vision.
 
 
